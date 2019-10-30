@@ -24,7 +24,7 @@ gem 'mongoid'
 gem 'kaminari-mongoid'
 
 #Rails Admin Gems
-# gem 'rails_admin'
+gem 'rails_admin'
 # gem 'rails admin rollincode'
 # gem 'Devise'
 # gem 'cancancan'
