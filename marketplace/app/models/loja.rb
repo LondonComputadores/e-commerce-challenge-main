@@ -5,3 +5,11 @@ class Loja
   field :logo, type: String
   field :email, type: String
 end
+
+# rails_admin do
+#   grid do
+#     thumbnail_method do
+#       :thumb
+#     end
+#   end
+# end

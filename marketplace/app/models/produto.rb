@@ -6,3 +6,11 @@ class Produto
   field :imagem, type: String
   field :url, type: String
 end
+
+# rails_admin do
+#   grid do
+#     thumbnail_method do
+#       :thumb
+#     end
+#   end
+# end
